@@ -7,4 +7,4 @@ I make Minecraft Clients, Mods (Fabric) and Server Plugins (Spigot/Paper, Nukkit
 
 I have basic knowledge with game hacking for Minecraft Bedrock, but with complications.
 
-Discord: marioSQ#7915
+Discord: mariosq (marioSQ#7915)
